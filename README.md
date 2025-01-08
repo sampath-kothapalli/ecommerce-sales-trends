@@ -7,7 +7,7 @@ This particular business study focuses on the operations of `Target` in `Brazil`
 In this study, the given dataset has been analysed to extract valuable insights from various aspects of the business and to suggest actionable recommendations. `BigQuery` was used for writing SQL queries and fetching data from dataset. `PowerBI` and `Tableau` were used for creating visualisations.
 
 ## 📝 Project Report
-You can access the complete project report here - [Target](https://aditya-shinde16.github.io/Target_Case_Study/Target_Project.pdf)
+You can access the complete project report here - [Report](https://github.com/sampath-kothapalli/ecommerce-sales-trends/blob/main/Business_Case_Study_Target.pdf)
 
 ## 🧾 About Data
 The dataset offers a comprehensive view of various dimensions including the order status, price, payment and freight performance, customer location, product attributes, and customer reviews.
